@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\coinController.cs" />
      <Compile Include="Assets\Scripts\followCamera.cs" />
      <Compile Include="Assets\Scripts\playerController.cs" />
+     <Compile Include="Assets\Scripts\scriptEvents.cs" />
      <None Include="Assets\Materials\MobileGUIPack\readme.txt" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
